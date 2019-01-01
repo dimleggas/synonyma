@@ -1,6 +1,6 @@
 # synonyma
 
-``synonyma" is Greek for synonyms.
+"synonyma" is Greek for synonyms.
 
 This is a customized polynomial homotopy continuation implementation for computing small crystal structures from idealized diffraction intensities. 
 
